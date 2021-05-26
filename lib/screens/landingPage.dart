@@ -66,7 +66,7 @@ class _LandingPageState extends State<LandingPage> {
               ),
             ),
             Image(
-              image: NetworkImage(''),
+              image: NetworkImage('https://github.com/Simardeep19/Personvio-time/blob/main/images/logo1.png?raw=true'),
               height: 75,
               width: 100,
             ),
