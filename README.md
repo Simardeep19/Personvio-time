@@ -8,19 +8,24 @@ integrated made with the help of razorpay and cloud firebase is used to store al
 <img src="images/login.png" alt="login" width="250px" length="300px"/>
 <img src="images/signup.png" alt="login" width="250px" length="300px"/>
 </div>
-List of Chefs
+<b>List of Chefs</b>
 <div>
  <img src="images/chefs.png" alt="login" width="250px" length="300px"/>
 </div>
-### Customer form
+<b>Customer form</b>
 <div>
  <img src="images/form.png" alt="login" width="250px" length="300px"/>
 </div>
-### Menu, Cart & order
+<b>Menu, Cart & order</b>
 <div>
  <img src="images/menu.png" alt="login" width="250px" length="300px"/>
  <img src="images/cart.png" alt="login" width="250px" length="300px"/>
- <img src="images/cart.png" alt="login" width="250px" length="300px"/>
-
-
+ <img src="images/profile.png" alt="login" width="250px" length="300px"/>
+ <img src="images/checkout.png" alt="login" width="250px" length="300px"/>
+</div>
+<b>wallet</b>
+<div>
+ <img src="images/wallet.png" alt="login" width="250px" length="300px"/>
+ <img src="images/payment_portal.png" alt="login" width="250px" length="300px"/>
+ <img src="images/order_details.png" alt="login" width="250px" length="300px"/>
 </div>
