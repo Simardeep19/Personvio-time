@@ -34,7 +34,8 @@ integrated made with the help of razorpay and cloud firebase is used to store al
  <img src="images/profile.png" alt="login" width="250px" length="300px"/>
  <img src="images/checkout.png" alt="login" width="250px" length="300px"/>
 </div>
-
+ 
+ 
 <b>Wallet</b>
 
 <div>
