@@ -5,5 +5,5 @@ integrated made with the help of razorpay and cloud firebase is used to store al
 
 ## Screenshots
 <div>
-<img src="Screenshot 2021-07-13 at 10.15.38 PM.png" alt="login" width="200px" />
+<img src="images/login.png" alt="login" width="200px" />
 </div>
