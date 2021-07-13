@@ -4,11 +4,24 @@ As Food quality and taste depend on the chef and his expertise, this app provide
 integrated made with the help of razorpay and cloud firebase is used to store all the user and chef data.
 
 ## Screenshots
+###Signup & Login
 <div>
 <img src="images/login.png" alt="login" width="250px" length="300px"/>
 <img src="images/signup.png" alt="login" width="250px" length="300px"/>
 </div>
+###List of Chefs
 <div>
  <img src="images/chefs.png" alt="login" width="250px" length="300px"/>
+</div>
+###Customer form
+<div>
+ <img src="images/form.png" alt="login" width="250px" length="300px"/>
+</div>
+###Menu, Cart & order
+<div>
+ <img src="images/menu.png" alt="login" width="250px" length="300px"/>
+ <img src="images/cart.png" alt="login" width="250px" length="300px"/>
+ <img src="images/cart.png" alt="login" width="250px" length="300px"/>
+
 
 </div>
